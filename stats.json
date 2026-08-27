@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-08-26",
+  "totalSolved": 2,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-08-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "LeetCode_Next_Permutation": true
+    "LeetCode_Next_Permutation": true,
+    "LeetCode_Lexicographically_Smallest_Permutation_Greater_Than_Target": true
   },
   "activityHistory": {
-    "2026-08-26": 1
+    "2026-08-26": 1,
+    "2026-08-27": 1
   },
   "todayProblems": [
-    "Next Permutation"
+    "Lexicographically Smallest Permutation Greater Than Target"
   ]
 }
