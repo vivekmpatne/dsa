@@ -1,26 +1,28 @@
 {
-  "totalSolved": 3,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-08-28",
+  "totalSolved": 4,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-08-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
     "LeetCode_Lexicographically_Smallest_Permutation_Greater_Than_Target": true,
-    "GeeksForGeeks_Minimum_Cost_Selection": true
+    "GeeksForGeeks_Minimum_Cost_Selection": true,
+    "LeetCode_Make_Lexicographically_Smallest_Array_by_Swapping_Elements": true
   },
   "activityHistory": {
     "2026-08-26": 1,
     "2026-08-27": 1,
-    "2026-08-28": 1
+    "2026-08-28": 1,
+    "2026-08-29": 1
   },
   "todayProblems": [
-    "Minimum Cost Selection"
+    "Make Lexicographically Smallest Array by Swapping Elements"
   ]
 }
