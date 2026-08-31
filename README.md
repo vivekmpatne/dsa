@@ -8,3 +8,4 @@
 | 6 | [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) | [LeetCode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 30 Aug 2026 | 07:53 pm |
 | 7 | [Marks from Ranks](./GeeksForGeeks/Medium/Marks%20from%20Ranks) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-marks-from-ranks/1) | Medium | 30 Aug 2026 | 07:55 pm |
 | 8 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./LeetCode/Medium/Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points) | [LeetCode](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | 31 Aug 2026 | 06:05 pm |
+| 9 | [Minimum Cost for n Characters](./GeeksForGeeks/Medium/Minimum%20Cost%20for%20n%20Characters) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-time1238/1) | Medium | 31 Aug 2026 | 06:07 pm |

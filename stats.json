@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 0
   },
@@ -18,7 +18,8 @@
     "GeeksForGeeks_Count_Subsequences_Divisible_by_n": true,
     "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
     "GeeksForGeeks_Marks_from_Ranks": true,
-    "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true
+    "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
+    "GeeksForGeeks_Minimum_Cost_for_n_Characters": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -26,9 +27,10 @@
     "2026-08-28": 1,
     "2026-08-29": 2,
     "2026-08-30": 2,
-    "2026-08-31": 1
+    "2026-08-31": 2
   },
   "todayProblems": [
-    "Find the Minimum and Maximum Number of Nodes Between Critical Points"
+    "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "Minimum Cost for n Characters"
   ]
 }
