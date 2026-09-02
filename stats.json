@@ -1,11 +1,11 @@
 {
-  "totalSolved": 9,
-  "currentStreak": 6,
+  "totalSolved": 10,
+  "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-08-31",
-  "todayCount": 2,
+  "lastSyncDate": "2026-09-02",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 9,
     "hard": 0,
     "basic": 0
@@ -19,7 +19,8 @@
     "LeetCode_Removing_Minimum_and_Maximum_From_Array": true,
     "GeeksForGeeks_Marks_from_Ranks": true,
     "LeetCode_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points": true,
-    "GeeksForGeeks_Minimum_Cost_for_n_Characters": true
+    "GeeksForGeeks_Minimum_Cost_for_n_Characters": true,
+    "LeetCode_Construct_Uniform_Parity_Array_I": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -27,10 +28,10 @@
     "2026-08-28": 1,
     "2026-08-29": 2,
     "2026-08-30": 2,
-    "2026-08-31": 2
+    "2026-08-31": 2,
+    "2026-09-02": 1
   },
   "todayProblems": [
-    "Find the Minimum and Maximum Number of Nodes Between Critical Points",
-    "Minimum Cost for n Characters"
+    "Construct Uniform Parity Array I"
   ]
 }
