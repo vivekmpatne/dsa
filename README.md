@@ -15,3 +15,4 @@
 | 13 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 06:49 pm |
 | 14 | [Smallest Stable Index II](./LeetCode/Medium/Smallest%20Stable%20Index%20II) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-ii/) | Medium | 05 Sept 2026 | 08:31 am |
 | 15 | [Min and Max in Array](./GeeksForGeeks/Basic/Min%20and%20Max%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | Basic | 07 Sept 2026 | 11:12 pm |
+| 16 | [Most Frequent in an Array](./GeeksForGeeks/Easy/Most%20Frequent%20in%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/most-frequent-element-in-an-array/1) | Easy | 07 Sept 2026 | 11:42 pm |
