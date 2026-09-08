@@ -20,3 +20,4 @@
 | 18 | [Distinct Subsequences II](./LeetCode/Hard/Distinct%20Subsequences%20II) | [LeetCode](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | 08 Sept 2026 | 01:37 am |
 | 19 | [Count Commas in Range](./LeetCode/Easy/Count%20Commas%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-commas-in-range/) | Easy | 08 Sept 2026 | 09:20 pm |
 | 20 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 08 Sept 2026 | 11:03 pm |
+| 21 | [Any Duplicate Within K Distance](./GeeksForGeeks/Easy/Any%20Duplicate%20Within%20K%20Distance) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-distance3757/1) | Easy | 08 Sept 2026 | 11:53 pm |
