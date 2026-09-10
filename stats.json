@@ -1,12 +1,12 @@
 {
-  "totalSolved": 22,
-  "currentStreak": 3,
+  "totalSolved": 23,
+  "currentStreak": 4,
   "maxStreak": 6,
-  "lastSyncDate": "2026-09-09",
+  "lastSyncDate": "2026-09-10",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 11,
+    "medium": 12,
     "hard": 1,
     "basic": 1
   },
@@ -32,7 +32,8 @@
     "LeetCode_Count_Commas_in_Range": true,
     "LeetCode_Contains_Duplicate_II": true,
     "GeeksForGeeks_Any_Duplicate_Within_K_Distance": true,
-    "LeetCode_Count_Commas_in_Range_II": true
+    "LeetCode_Count_Commas_in_Range_II": true,
+    "LeetCode_Count_Nodes_Equal_to_Average_of_Subtree": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -47,9 +48,10 @@
     "2026-09-05": 1,
     "2026-09-07": 2,
     "2026-09-08": 5,
-    "2026-09-09": 1
+    "2026-09-09": 1,
+    "2026-09-10": 1
   },
   "todayProblems": [
-    "Count Commas in Range II"
+    "Count Nodes Equal to Average of Subtree"
   ]
 }

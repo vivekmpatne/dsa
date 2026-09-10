@@ -22,3 +22,4 @@
 | 20 | [Contains Duplicate II](./LeetCode/Easy/Contains%20Duplicate%20II) | [LeetCode](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 08 Sept 2026 | 11:03 pm |
 | 21 | [Any Duplicate Within K Distance](./GeeksForGeeks/Easy/Any%20Duplicate%20Within%20K%20Distance) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-distance3757/1) | Easy | 08 Sept 2026 | 11:53 pm |
 | 22 | [Count Commas in Range II](./LeetCode/Medium/Count%20Commas%20in%20Range%20II) | [LeetCode](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | 09 Sept 2026 | 08:37 am |
+| 23 | [Count Nodes Equal to Average of Subtree](./LeetCode/Medium/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree) | [LeetCode](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | 10 Sept 2026 | 08:51 pm |
