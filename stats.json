@@ -1,11 +1,11 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-09-24",
+  "lastSyncDate": "2026-09-28",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 14,
+    "easy": 15,
     "medium": 13,
     "hard": 1,
     "basic": 1
@@ -39,7 +39,8 @@
     "LeetCode_Circle_and_Rectangle_Overlapping": true,
     "LeetCode_Reverse_Degree_of_a_String": true,
     "LeetCode_Max_Consecutive_Ones": true,
-    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true
+    "LeetCode_Smallest_Index_With_Digit_Sum_Equal_to_Index": true,
+    "LeetCode_Maximum_Nesting_Depth_of_the_Parentheses": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -61,9 +62,10 @@
     "2026-09-19": 1,
     "2026-09-20": 1,
     "2026-09-21": 1,
-    "2026-09-24": 1
+    "2026-09-24": 1,
+    "2026-09-28": 1
   },
   "todayProblems": [
-    "Smallest Index With Digit Sum Equal to Index"
+    "Maximum Nesting Depth of the Parentheses"
   ]
 }
