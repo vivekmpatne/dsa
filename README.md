@@ -30,3 +30,4 @@
 | 28 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 21 Sept 2026 | 10:23 pm |
 | 29 | [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) | [LeetCode](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | 24 Sept 2026 | 11:09 pm |
 | 30 | [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) | [LeetCode](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | 28 Sept 2026 | 08:27 pm |
+| 31 | [Height Checker](./LeetCode/Easy/Height%20Checker) | [LeetCode](https://leetcode.com/problems/height-checker/) | Easy | 28 Sept 2026 | 08:38 pm |
