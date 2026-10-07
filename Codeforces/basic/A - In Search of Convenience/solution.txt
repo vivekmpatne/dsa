@@ -1,0 +1,36 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+
+void fastio(){
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  cout.tie(NULL);
+}
+
+void solve(){
+  int r, x0, y0, x, y;
+  cin >> x0 >> y0 >> r;
+
+  
+  x = x0 + r;
+  y = y0;
+
+  cout<<x<<" "<<y<<endl;
+
+}
+
+
+int main(){
+
+  fastio();
+
+  int t;
+  cin >> t;
+
+  while(t--){
+    solve();
+  }
+
+  return 0;
+}
