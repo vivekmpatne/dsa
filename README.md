@@ -33,3 +33,4 @@
 | 31 | [Height Checker](./LeetCode/Easy/Height%20Checker) | [LeetCode](https://leetcode.com/problems/height-checker/) | Easy | 28 Sept 2026 | 08:38 pm |
 | 32 | [A - In Search of Convenience](./Codeforces/basic/A%20-%20In%20Search%20of%20Convenience) | [Codeforces](https://codeforces.com/contest/2275/problem/A) | basic | 07 Oct 2026 | 08:56 pm |
 | 33 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 11 Oct 2026 | 10:56 pm |
+| 34 | [Count Pairs with Sum](./GeeksForGeeks/Medium/Count%20Pairs%20with%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1) | Medium | 11 Oct 2026 | 11:09 pm |
