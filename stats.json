@@ -1,11 +1,11 @@
 {
-  "totalSolved": 35,
+  "totalSolved": 36,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 18,
+    "easy": 19,
     "medium": 14,
     "hard": 1,
     "basic": 2
@@ -45,7 +45,8 @@
     "LeetCode_Height_Checker": true,
     "Codeforces_A_-_In_Search_of_Convenience": true,
     "LeetCode_Two_Sum": true,
-    "GeeksForGeeks_Count_Pairs_with_Sum": true
+    "GeeksForGeeks_Count_Pairs_with_Sum": true,
+    "GeeksForGeeks_Two_Sum_-_Pair_with_Given_Sum": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -70,10 +71,11 @@
     "2026-09-24": 1,
     "2026-09-28": 3,
     "2026-10-07": 1,
-    "2026-10-11": 2
+    "2026-10-11": 3
   },
   "todayProblems": [
     "Two Sum",
-    "Count Pairs with Sum"
+    "Count Pairs with Sum",
+    "Two Sum - Pair with Given Sum"
   ]
 }
