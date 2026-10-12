@@ -35,3 +35,4 @@
 | 33 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 11 Oct 2026 | 10:56 pm |
 | 34 | [Count Pairs with Sum](./GeeksForGeeks/Medium/Count%20Pairs%20with%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1) | Medium | 11 Oct 2026 | 11:09 pm |
 | 35 | [Two Sum - Pair with Given Sum](./GeeksForGeeks/Easy/Two%20Sum%20-%20Pair%20with%20Given%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/key-pair5616/1) | Easy | 11 Oct 2026 | 11:23 pm |
+| 36 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 13 Oct 2026 | 12:50 am |

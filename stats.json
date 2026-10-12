@@ -1,12 +1,12 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-10-11",
-  "todayCount": 3,
+  "lastSyncDate": "2026-10-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 14,
+    "medium": 15,
     "hard": 1,
     "basic": 2
   },
@@ -46,7 +46,8 @@
     "Codeforces_A_-_In_Search_of_Convenience": true,
     "LeetCode_Two_Sum": true,
     "GeeksForGeeks_Count_Pairs_with_Sum": true,
-    "GeeksForGeeks_Two_Sum_-_Pair_with_Given_Sum": true
+    "GeeksForGeeks_Two_Sum_-_Pair_with_Given_Sum": true,
+    "LeetCode_Subarray_Sum_Equals_K": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -71,11 +72,10 @@
     "2026-09-24": 1,
     "2026-09-28": 3,
     "2026-10-07": 1,
-    "2026-10-11": 3
+    "2026-10-11": 3,
+    "2026-10-13": 1
   },
   "todayProblems": [
-    "Two Sum",
-    "Count Pairs with Sum",
-    "Two Sum - Pair with Given Sum"
+    "Subarray Sum Equals K"
   ]
 }
