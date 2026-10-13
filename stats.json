@@ -1,11 +1,11 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 19,
+    "easy": 20,
     "medium": 15,
     "hard": 1,
     "basic": 2
@@ -47,7 +47,8 @@
     "LeetCode_Two_Sum": true,
     "GeeksForGeeks_Count_Pairs_with_Sum": true,
     "GeeksForGeeks_Two_Sum_-_Pair_with_Given_Sum": true,
-    "LeetCode_Subarray_Sum_Equals_K": true
+    "LeetCode_Subarray_Sum_Equals_K": true,
+    "LeetCode_Valid_Anagram": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -73,9 +74,10 @@
     "2026-09-28": 3,
     "2026-10-07": 1,
     "2026-10-11": 3,
-    "2026-10-13": 1
+    "2026-10-13": 2
   },
   "todayProblems": [
-    "Subarray Sum Equals K"
+    "Subarray Sum Equals K",
+    "Valid Anagram"
   ]
 }
