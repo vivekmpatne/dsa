@@ -38,3 +38,4 @@
 | 36 | [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | 13 Oct 2026 | 12:50 am |
 | 37 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 13 Oct 2026 | 11:07 am |
 | 38 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 13 Oct 2026 | 11:33 am |
+| 39 | [Binary Digit Score](./LeetCode/Easy/Binary%20Digit%20Score) | [LeetCode](https://leetcode.com/problems/binary-digit-score/) | Easy | 27 Oct 2026 | 12:03 am |
