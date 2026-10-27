@@ -43,3 +43,4 @@
 | 41 | [Maximum Sum of Two Non-Overlapping Subarrays](./LeetCode/Medium/Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays) | [LeetCode](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | Medium | 27 Oct 2026 | 12:34 pm |
 | 42 | [Create Grid With Exactly One Path](./LeetCode/Easy/Create%20Grid%20With%20Exactly%20One%20Path) | [LeetCode](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | 27 Oct 2026 | 07:42 pm |
 | 43 | [Reduction Operations to Make the Array Elements Equal](./LeetCode/Medium/Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal) | [LeetCode](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Medium | 27 Oct 2026 | 10:39 pm |
+| 44 | [Frequency of Element](./GeeksForGeeks/Easy/Frequency%20of%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-frequency/1) | Easy | 27 Oct 2026 | 11:53 pm |
