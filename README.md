@@ -40,3 +40,4 @@
 | 38 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 13 Oct 2026 | 11:33 am |
 | 39 | [Binary Digit Score](./LeetCode/Easy/Binary%20Digit%20Score) | [LeetCode](https://leetcode.com/problems/binary-digit-score/) | Easy | 27 Oct 2026 | 12:03 am |
 | 40 | [Group Anagrams](./LeetCode/Medium/Group%20Anagrams) | [LeetCode](https://leetcode.com/problems/group-anagrams/) | Medium | 27 Oct 2026 | 12:37 am |
+| 41 | [Maximum Sum of Two Non-Overlapping Subarrays](./LeetCode/Medium/Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays) | [LeetCode](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | Medium | 27 Oct 2026 | 12:34 pm |
