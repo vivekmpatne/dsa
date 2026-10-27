@@ -1,11 +1,11 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-27",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 21,
+    "easy": 22,
     "medium": 18,
     "hard": 1,
     "basic": 2
@@ -52,7 +52,8 @@
     "LeetCode_Maximum_Subarray": true,
     "LeetCode_Binary_Digit_Score": true,
     "LeetCode_Group_Anagrams": true,
-    "LeetCode_Maximum_Sum_of_Two_Non-Overlapping_Subarrays": true
+    "LeetCode_Maximum_Sum_of_Two_Non-Overlapping_Subarrays": true,
+    "LeetCode_Create_Grid_With_Exactly_One_Path": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -79,11 +80,12 @@
     "2026-10-07": 1,
     "2026-10-11": 3,
     "2026-10-13": 3,
-    "2026-10-27": 3
+    "2026-10-27": 4
   },
   "todayProblems": [
     "Binary Digit Score",
     "Group Anagrams",
-    "Maximum Sum of Two Non-Overlapping Subarrays"
+    "Maximum Sum of Two Non-Overlapping Subarrays",
+    "Create Grid With Exactly One Path"
   ]
 }
