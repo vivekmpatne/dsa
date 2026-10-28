@@ -46,3 +46,4 @@
 | 44 | [Frequency of Element](./GeeksForGeeks/Easy/Frequency%20of%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-frequency/1) | Easy | 27 Oct 2026 | 11:53 pm |
 | 45 | [Minimum XOR Path in a Grid](./LeetCode/Medium/Minimum%20XOR%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | 28 Oct 2026 | 03:35 pm |
 | 46 | [Max Distance Between Same](./GeeksForGeeks/Easy/Max%20Distance%20Between%20Same) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-distance-between-same-elements/1) | Easy | 28 Oct 2026 | 08:18 pm |
+| 47 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 28 Oct 2026 | 09:04 pm |

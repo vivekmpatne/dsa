@@ -1,11 +1,11 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-28",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 24,
+    "easy": 25,
     "medium": 20,
     "hard": 1,
     "basic": 2
@@ -57,7 +57,8 @@
     "LeetCode_Reduction_Operations_to_Make_the_Array_Elements_Equal": true,
     "GeeksForGeeks_Frequency_of_Element": true,
     "LeetCode_Minimum_XOR_Path_in_a_Grid": true,
-    "GeeksForGeeks_Max_Distance_Between_Same": true
+    "GeeksForGeeks_Max_Distance_Between_Same": true,
+    "LeetCode_First_Unique_Character_in_a_String": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -85,10 +86,11 @@
     "2026-10-11": 3,
     "2026-10-13": 3,
     "2026-10-27": 6,
-    "2026-10-28": 2
+    "2026-10-28": 3
   },
   "todayProblems": [
     "Minimum XOR Path in a Grid",
-    "Max Distance Between Same"
+    "Max Distance Between Same",
+    "First Unique Character in a String"
   ]
 }
