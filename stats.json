@@ -1,12 +1,12 @@
 {
-  "totalSolved": 50,
+  "totalSolved": 51,
   "currentStreak": 3,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 26,
-    "medium": 21,
+    "medium": 22,
     "hard": 1,
     "basic": 2
   },
@@ -60,7 +60,8 @@
     "GeeksForGeeks_Max_Distance_Between_Same": true,
     "LeetCode_First_Unique_Character_in_a_String": true,
     "LeetCode_Find_Common_Characters": true,
-    "LeetCode_Longest_Consecutive_Sequence": true
+    "LeetCode_Longest_Consecutive_Sequence": true,
+    "GeeksForGeeks_Largest_Subarray_with_0_Sum": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -89,9 +90,10 @@
     "2026-10-13": 3,
     "2026-10-27": 6,
     "2026-10-28": 4,
-    "2026-10-29": 1
+    "2026-10-29": 2
   },
   "todayProblems": [
-    "Longest Consecutive Sequence"
+    "Longest Consecutive Sequence",
+    "Largest Subarray with 0 Sum"
   ]
 }

@@ -49,3 +49,4 @@
 | 47 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 28 Oct 2026 | 09:04 pm |
 | 48 | [Find Common Characters](./LeetCode/Easy/Find%20Common%20Characters) | [LeetCode](https://leetcode.com/problems/find-common-characters/) | Easy | 28 Oct 2026 | 09:42 pm |
 | 49 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 29 Oct 2026 | 01:08 am |
+| 50 | [Largest Subarray with 0 Sum](./GeeksForGeeks/Medium/Largest%20Subarray%20with%200%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Medium | 29 Oct 2026 | 01:38 am |
