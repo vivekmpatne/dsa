@@ -52,3 +52,4 @@
 | 50 | [Largest Subarray with 0 Sum](./GeeksForGeeks/Medium/Largest%20Subarray%20with%200%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Medium | 29 Oct 2026 | 01:38 am |
 | 51 | [Count Number of Pairs With Absolute Difference K](./LeetCode/Easy/Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K) | [LeetCode](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | Easy | 29 Oct 2026 | 02:00 am |
 | 52 | [Subarrays with Sum K](./GeeksForGeeks/Medium/Subarrays%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | Medium | 29 Oct 2026 | 03:05 am |
+| 53 | [Count Subarrays with XOR](./GeeksForGeeks/Medium/Count%20Subarrays%20with%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | Medium | 29 Oct 2026 | 03:17 am |
