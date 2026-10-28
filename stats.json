@@ -1,11 +1,11 @@
 {
-  "totalSolved": 51,
+  "totalSolved": 52,
   "currentStreak": 3,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-29",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 26,
+    "easy": 27,
     "medium": 22,
     "hard": 1,
     "basic": 2
@@ -61,7 +61,8 @@
     "LeetCode_First_Unique_Character_in_a_String": true,
     "LeetCode_Find_Common_Characters": true,
     "LeetCode_Longest_Consecutive_Sequence": true,
-    "GeeksForGeeks_Largest_Subarray_with_0_Sum": true
+    "GeeksForGeeks_Largest_Subarray_with_0_Sum": true,
+    "LeetCode_Count_Number_of_Pairs_With_Absolute_Difference_K": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -90,10 +91,11 @@
     "2026-10-13": 3,
     "2026-10-27": 6,
     "2026-10-28": 4,
-    "2026-10-29": 2
+    "2026-10-29": 3
   },
   "todayProblems": [
     "Longest Consecutive Sequence",
-    "Largest Subarray with 0 Sum"
+    "Largest Subarray with 0 Sum",
+    "Count Number of Pairs With Absolute Difference K"
   ]
 }

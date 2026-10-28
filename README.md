@@ -50,3 +50,4 @@
 | 48 | [Find Common Characters](./LeetCode/Easy/Find%20Common%20Characters) | [LeetCode](https://leetcode.com/problems/find-common-characters/) | Easy | 28 Oct 2026 | 09:42 pm |
 | 49 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 29 Oct 2026 | 01:08 am |
 | 50 | [Largest Subarray with 0 Sum](./GeeksForGeeks/Medium/Largest%20Subarray%20with%200%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | Medium | 29 Oct 2026 | 01:38 am |
+| 51 | [Count Number of Pairs With Absolute Difference K](./LeetCode/Easy/Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K) | [LeetCode](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | Easy | 29 Oct 2026 | 02:00 am |
