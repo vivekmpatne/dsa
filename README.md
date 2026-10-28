@@ -45,3 +45,4 @@
 | 43 | [Reduction Operations to Make the Array Elements Equal](./LeetCode/Medium/Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal) | [LeetCode](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Medium | 27 Oct 2026 | 10:39 pm |
 | 44 | [Frequency of Element](./GeeksForGeeks/Easy/Frequency%20of%20Element) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-frequency/1) | Easy | 27 Oct 2026 | 11:53 pm |
 | 45 | [Minimum XOR Path in a Grid](./LeetCode/Medium/Minimum%20XOR%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | 28 Oct 2026 | 03:35 pm |
+| 46 | [Max Distance Between Same](./GeeksForGeeks/Easy/Max%20Distance%20Between%20Same) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-distance-between-same-elements/1) | Easy | 28 Oct 2026 | 08:18 pm |
