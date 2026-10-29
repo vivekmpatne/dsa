@@ -54,3 +54,4 @@
 | 52 | [Subarrays with Sum K](./GeeksForGeeks/Medium/Subarrays%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | Medium | 29 Oct 2026 | 03:05 am |
 | 53 | [Count Subarrays with XOR](./GeeksForGeeks/Medium/Count%20Subarrays%20with%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | Medium | 29 Oct 2026 | 03:17 am |
 | 54 | [Difference Array](./GeeksForGeeks/Medium/Difference%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/difference-array/1) | Medium | 29 Oct 2026 | 09:11 pm |
+| 55 | [Subarrays with K Different Integers](./LeetCode/Hard/Subarrays%20with%20K%20Different%20Integers) | [LeetCode](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | 30 Oct 2026 | 12:18 am |
