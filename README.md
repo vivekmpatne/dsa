@@ -55,3 +55,4 @@
 | 53 | [Count Subarrays with XOR](./GeeksForGeeks/Medium/Count%20Subarrays%20with%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | Medium | 29 Oct 2026 | 03:17 am |
 | 54 | [Difference Array](./GeeksForGeeks/Medium/Difference%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/difference-array/1) | Medium | 29 Oct 2026 | 09:11 pm |
 | 55 | [Subarrays with K Different Integers](./LeetCode/Hard/Subarrays%20with%20K%20Different%20Integers) | [LeetCode](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | 30 Oct 2026 | 12:18 am |
+| 56 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./LeetCode/Medium/Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit) | [LeetCode](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium | 30 Oct 2026 | 12:51 am |
