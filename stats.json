@@ -1,11 +1,11 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 4,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-30",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 27,
+    "easy": 28,
     "medium": 26,
     "hard": 2,
     "basic": 2
@@ -67,7 +67,8 @@
     "GeeksForGeeks_Count_Subarrays_with_XOR": true,
     "GeeksForGeeks_Difference_Array": true,
     "LeetCode_Subarrays_with_K_Different_Integers": true,
-    "LeetCode_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit": true
+    "LeetCode_Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit": true,
+    "LeetCode_Count_Pairs_Whose_Sum_is_Less_than_Target": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -97,10 +98,11 @@
     "2026-10-27": 6,
     "2026-10-28": 4,
     "2026-10-29": 6,
-    "2026-10-30": 2
+    "2026-10-30": 3
   },
   "todayProblems": [
     "Subarrays with K Different Integers",
-    "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit"
+    "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "Count Pairs Whose Sum is Less than Target"
   ]
 }
