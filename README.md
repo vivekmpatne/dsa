@@ -57,3 +57,4 @@
 | 55 | [Subarrays with K Different Integers](./LeetCode/Hard/Subarrays%20with%20K%20Different%20Integers) | [LeetCode](https://leetcode.com/problems/subarrays-with-k-different-integers/) | Hard | 30 Oct 2026 | 12:18 am |
 | 56 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./LeetCode/Medium/Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit) | [LeetCode](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium | 30 Oct 2026 | 12:51 am |
 | 57 | [Count Pairs Whose Sum is Less than Target](./LeetCode/Easy/Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target) | [LeetCode](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | Easy | 30 Oct 2026 | 12:57 am |
+| 58 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 01 Nov 2026 | 12:54 pm |
