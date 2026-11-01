@@ -66,3 +66,4 @@
 | 64 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 02 Nov 2026 | 01:29 am |
 | 65 | [Search in Rotated Sorted Array II](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 02 Nov 2026 | 01:40 am |
 | 66 | [Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | 02 Nov 2026 | 01:50 am |
+| 67 | [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | 02 Nov 2026 | 01:57 am |
