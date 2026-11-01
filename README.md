@@ -59,3 +59,4 @@
 | 57 | [Count Pairs Whose Sum is Less than Target](./LeetCode/Easy/Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target) | [LeetCode](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | Easy | 30 Oct 2026 | 12:57 am |
 | 58 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 01 Nov 2026 | 12:54 pm |
 | 59 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 01 Nov 2026 | 01:22 pm |
+| 60 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 01 Nov 2026 | 01:36 pm |
