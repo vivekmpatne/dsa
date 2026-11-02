@@ -1,11 +1,11 @@
 {
-  "totalSolved": 69,
+  "totalSolved": 70,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-02",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 31,
+    "easy": 32,
     "medium": 33,
     "hard": 3,
     "basic": 2
@@ -79,7 +79,8 @@
     "LeetCode_Search_in_Rotated_Sorted_Array_II": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array_II": true,
     "LeetCode_Single_Element_in_a_Sorted_Array": true,
-    "GeeksForGeeks_Nth_Root_of_M": true
+    "GeeksForGeeks_Nth_Root_of_M": true,
+    "GeeksForGeeks_Minimize_Sum_of_Product": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -111,7 +112,7 @@
     "2026-10-29": 6,
     "2026-10-30": 3,
     "2026-11-01": 4,
-    "2026-11-02": 7
+    "2026-11-02": 8
   },
   "todayProblems": [
     "Find First and Last Position of Element in Sorted Array",
@@ -120,6 +121,7 @@
     "Search in Rotated Sorted Array II",
     "Find Minimum in Rotated Sorted Array II",
     "Single Element in a Sorted Array",
-    "Nth Root of M"
+    "Nth Root of M",
+    "Minimize Sum of Product"
   ]
 }
