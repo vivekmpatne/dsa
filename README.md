@@ -69,3 +69,4 @@
 | 67 | [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | 02 Nov 2026 | 01:57 am |
 | 68 | [Nth Root of M](./GeeksForGeeks/Medium/Nth%20Root%20of%20M) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) | Medium | 02 Nov 2026 | 02:10 am |
 | 69 | [Minimize Sum of Product](./GeeksForGeeks/Easy/Minimize%20Sum%20of%20Product) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimize-the-sum-of-product1525/1) | Easy | 02 Nov 2026 | 11:45 pm |
+| 70 | [Minimum Amount of Damage Dealt to Bob](./LeetCode/Hard/Minimum%20Amount%20of%20Damage%20Dealt%20to%20Bob) | [LeetCode](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | Hard | 04 Nov 2026 | 01:55 am |
