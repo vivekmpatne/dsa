@@ -1,12 +1,12 @@
 {
-  "totalSolved": 72,
-  "currentStreak": 1,
+  "totalSolved": 73,
+  "currentStreak": 2,
   "maxStreak": 6,
-  "lastSyncDate": "2026-11-04",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 33,
-    "medium": 33,
+    "medium": 34,
     "hard": 4,
     "basic": 2
   },
@@ -82,7 +82,8 @@
     "GeeksForGeeks_Nth_Root_of_M": true,
     "GeeksForGeeks_Minimize_Sum_of_Product": true,
     "LeetCode_Minimum_Amount_of_Damage_Dealt_to_Bob": true,
-    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_III": true,
+    "Manual_Shooting": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -115,10 +116,10 @@
     "2026-10-30": 3,
     "2026-11-01": 4,
     "2026-11-02": 8,
-    "2026-11-04": 2
+    "2026-11-04": 2,
+    "2026-11-05": 1
   },
   "todayProblems": [
-    "Minimum Amount of Damage Dealt to Bob",
-    "Minimum Moves to Equal Array Elements III"
+    "Shooting"
   ]
 }
