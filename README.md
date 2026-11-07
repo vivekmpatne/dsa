@@ -73,3 +73,4 @@
 | 71 | [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) | [LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | 04 Nov 2026 | 02:05 am |
 | 72 | [Shooting](./Manual/Medium/Shooting) | [Manual](https://www.codechef.com/problems/SHOOT0?tab=ide) | Medium | 05 Nov 2026 | 12:09 am |
 | 73 | [Create Hello World Function](./LeetCode/Easy/Create%20Hello%20World%20Function) | [LeetCode](https://leetcode.com/problems/create-hello-world-function/) | Easy | 08 Nov 2026 | 02:29 am |
+| 74 | [Counter](./LeetCode/Easy/Counter) | [LeetCode](https://leetcode.com/problems/counter/) | Easy | 08 Nov 2026 | 02:34 am |
