@@ -1,12 +1,12 @@
 {
-  "totalSolved": 78,
+  "totalSolved": 79,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-09",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 38,
-    "medium": 34,
+    "medium": 35,
     "hard": 4,
     "basic": 2
   },
@@ -88,7 +88,8 @@
     "LeetCode_Counter": true,
     "LeetCode_Fibonacci_Number": true,
     "LeetCode_Climbing_Stairs": true,
-    "GeeksForGeeks_Nth_Fibonacci_Number": true
+    "GeeksForGeeks_Nth_Fibonacci_Number": true,
+    "GeeksForGeeks_Ways_to_Reach_the_n'th_Stair": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -124,10 +125,11 @@
     "2026-11-04": 2,
     "2026-11-05": 1,
     "2026-11-08": 3,
-    "2026-11-09": 2
+    "2026-11-09": 3
   },
   "todayProblems": [
     "Climbing Stairs",
-    "Nth Fibonacci Number"
+    "Nth Fibonacci Number",
+    "Ways to Reach the n'th Stair"
   ]
 }
