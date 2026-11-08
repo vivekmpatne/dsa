@@ -76,3 +76,4 @@
 | 74 | [Counter](./LeetCode/Easy/Counter) | [LeetCode](https://leetcode.com/problems/counter/) | Easy | 08 Nov 2026 | 02:34 am |
 | 75 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 08 Nov 2026 | 11:07 pm |
 | 76 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 09 Nov 2026 | 12:41 am |
+| 77 | [Nth Fibonacci Number](./GeeksForGeeks/Easy/Nth%20Fibonacci%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | Easy | 09 Nov 2026 | 01:02 am |
