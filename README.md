@@ -74,3 +74,4 @@
 | 72 | [Shooting](./Manual/Medium/Shooting) | [Manual](https://www.codechef.com/problems/SHOOT0?tab=ide) | Medium | 05 Nov 2026 | 12:09 am |
 | 73 | [Create Hello World Function](./LeetCode/Easy/Create%20Hello%20World%20Function) | [LeetCode](https://leetcode.com/problems/create-hello-world-function/) | Easy | 08 Nov 2026 | 02:29 am |
 | 74 | [Counter](./LeetCode/Easy/Counter) | [LeetCode](https://leetcode.com/problems/counter/) | Easy | 08 Nov 2026 | 02:34 am |
+| 75 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 08 Nov 2026 | 11:07 pm |
