@@ -79,3 +79,4 @@
 | 77 | [Nth Fibonacci Number](./GeeksForGeeks/Easy/Nth%20Fibonacci%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | Easy | 09 Nov 2026 | 01:02 am |
 | 78 | [Ways to Reach the n'th Stair](./GeeksForGeeks/Medium/Ways%20to%20Reach%20the%20n'th%20Stair) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1) | Medium | 09 Nov 2026 | 01:06 am |
 | 79 | [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) | [LeetCode](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | 09 Nov 2026 | 01:19 am |
+| 80 | [Stickler Thief](./GeeksForGeeks/Easy/Stickler%20Thief) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1) | Easy | 09 Nov 2026 | 01:56 pm |
