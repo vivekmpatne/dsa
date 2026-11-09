@@ -1,12 +1,12 @@
 {
-  "totalSolved": 83,
+  "totalSolved": 84,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-09",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 41,
-    "medium": 36,
+    "medium": 37,
     "hard": 4,
     "basic": 2
   },
@@ -93,7 +93,8 @@
     "LeetCode_Count_Servers_that_Communicate": true,
     "GeeksForGeeks_Stickler_Thief": true,
     "LeetCode_Min_Cost_Climbing_Stairs": true,
-    "LeetCode_N-th_Tribonacci_Number": true
+    "LeetCode_N-th_Tribonacci_Number": true,
+    "LeetCode_House_Robber": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -129,7 +130,7 @@
     "2026-11-04": 2,
     "2026-11-05": 1,
     "2026-11-08": 3,
-    "2026-11-09": 7
+    "2026-11-09": 8
   },
   "todayProblems": [
     "Climbing Stairs",
@@ -138,6 +139,7 @@
     "Count Servers that Communicate",
     "Stickler Thief",
     "Min Cost Climbing Stairs",
-    "N-th Tribonacci Number"
+    "N-th Tribonacci Number",
+    "House Robber"
   ]
 }

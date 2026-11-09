@@ -82,3 +82,4 @@
 | 80 | [Stickler Thief](./GeeksForGeeks/Easy/Stickler%20Thief) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1) | Easy | 09 Nov 2026 | 01:56 pm |
 | 81 | [Min Cost Climbing Stairs](./LeetCode/Easy/Min%20Cost%20Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 09 Nov 2026 | 02:07 pm |
 | 82 | [N-th Tribonacci Number](./LeetCode/Easy/N-th%20Tribonacci%20Number) | [LeetCode](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | 09 Nov 2026 | 02:10 pm |
+| 83 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 09 Nov 2026 | 02:23 pm |
