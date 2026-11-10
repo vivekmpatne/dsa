@@ -85,3 +85,4 @@
 | 83 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 09 Nov 2026 | 02:23 pm |
 | 84 | [Friends Pairing Problem](./GeeksForGeeks/Medium/Friends%20Pairing%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | Medium | 09 Nov 2026 | 02:30 pm |
 | 85 | [Shortest Path in a Grid with Obstacles Elimination](./LeetCode/Hard/Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination) | [LeetCode](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard | 10 Nov 2026 | 11:41 pm |
+| 86 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 11:46 pm |

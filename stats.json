@@ -1,12 +1,12 @@
 {
-  "totalSolved": 86,
+  "totalSolved": 87,
   "currentStreak": 3,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 41,
-    "medium": 38,
+    "medium": 39,
     "hard": 5,
     "basic": 2
   },
@@ -96,7 +96,8 @@
     "LeetCode_N-th_Tribonacci_Number": true,
     "LeetCode_House_Robber": true,
     "GeeksForGeeks_Friends_Pairing_Problem": true,
-    "LeetCode_Shortest_Path_in_a_Grid_with_Obstacles_Elimination": true
+    "LeetCode_Shortest_Path_in_a_Grid_with_Obstacles_Elimination": true,
+    "LeetCode_Climbing_Stairs_II": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -133,9 +134,10 @@
     "2026-11-05": 1,
     "2026-11-08": 3,
     "2026-11-09": 9,
-    "2026-11-10": 1
+    "2026-11-10": 2
   },
   "todayProblems": [
-    "Shortest Path in a Grid with Obstacles Elimination"
+    "Shortest Path in a Grid with Obstacles Elimination",
+    "Climbing Stairs II"
   ]
 }
