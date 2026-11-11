@@ -1,12 +1,12 @@
 {
-  "totalSolved": 91,
+  "totalSolved": 92,
   "currentStreak": 4,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-11",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 41,
-    "medium": 42,
+    "medium": 43,
     "hard": 5,
     "basic": 3
   },
@@ -101,7 +101,8 @@
     "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true,
     "GeeksForGeeks_Arithmetic_Operators": true,
     "LeetCode_Pairs_of_Songs_With_Total_Durations_Divisible_by_60": true,
-    "LeetCode_Subarray_Sums_Divisible_by_K": true
+    "LeetCode_Subarray_Sums_Divisible_by_K": true,
+    "LeetCode_Check_If_Array_Pairs_Are_Divisible_by_k": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -139,12 +140,13 @@
     "2026-11-08": 3,
     "2026-11-09": 9,
     "2026-11-10": 2,
-    "2026-11-11": 4
+    "2026-11-11": 5
   },
   "todayProblems": [
     "Minimum Cost to Acquire Required Items",
     "Arithmetic Operators",
     "Pairs of Songs With Total Durations Divisible by 60",
-    "Subarray Sums Divisible by K"
+    "Subarray Sums Divisible by K",
+    "Check If Array Pairs Are Divisible by k"
   ]
 }
