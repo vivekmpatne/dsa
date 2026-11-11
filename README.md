@@ -86,3 +86,4 @@
 | 84 | [Friends Pairing Problem](./GeeksForGeeks/Medium/Friends%20Pairing%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | Medium | 09 Nov 2026 | 02:30 pm |
 | 85 | [Shortest Path in a Grid with Obstacles Elimination](./LeetCode/Hard/Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination) | [LeetCode](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | Hard | 10 Nov 2026 | 11:41 pm |
 | 86 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 11:46 pm |
+| 87 | [Minimum Cost to Acquire Required Items](./LeetCode/Medium/Minimum%20Cost%20to%20Acquire%20Required%20Items) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | 11 Nov 2026 | 12:27 pm |
