@@ -88,3 +88,4 @@
 | 86 | [Climbing Stairs II](./LeetCode/Medium/Climbing%20Stairs%20II) | [LeetCode](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | 10 Nov 2026 | 11:46 pm |
 | 87 | [Minimum Cost to Acquire Required Items](./LeetCode/Medium/Minimum%20Cost%20to%20Acquire%20Required%20Items) | [LeetCode](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | 11 Nov 2026 | 12:27 pm |
 | 88 | [Arithmetic Operators](./GeeksForGeeks/Basic/Arithmetic%20Operators) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arithmetic-operators/1) | Basic | 11 Nov 2026 | 07:43 pm |
+| 89 | [Pairs of Songs With Total Durations Divisible by 60](./LeetCode/Medium/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060) | [LeetCode](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | Medium | 11 Nov 2026 | 08:12 pm |
