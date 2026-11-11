@@ -1,12 +1,12 @@
 {
-  "totalSolved": 90,
+  "totalSolved": 91,
   "currentStreak": 4,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-11",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 41,
-    "medium": 41,
+    "medium": 42,
     "hard": 5,
     "basic": 3
   },
@@ -100,7 +100,8 @@
     "LeetCode_Climbing_Stairs_II": true,
     "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true,
     "GeeksForGeeks_Arithmetic_Operators": true,
-    "LeetCode_Pairs_of_Songs_With_Total_Durations_Divisible_by_60": true
+    "LeetCode_Pairs_of_Songs_With_Total_Durations_Divisible_by_60": true,
+    "LeetCode_Subarray_Sums_Divisible_by_K": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -138,11 +139,12 @@
     "2026-11-08": 3,
     "2026-11-09": 9,
     "2026-11-10": 2,
-    "2026-11-11": 3
+    "2026-11-11": 4
   },
   "todayProblems": [
     "Minimum Cost to Acquire Required Items",
     "Arithmetic Operators",
-    "Pairs of Songs With Total Durations Divisible by 60"
+    "Pairs of Songs With Total Durations Divisible by 60",
+    "Subarray Sums Divisible by K"
   ]
 }
