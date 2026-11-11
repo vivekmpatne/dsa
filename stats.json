@@ -1,14 +1,14 @@
 {
-  "totalSolved": 88,
+  "totalSolved": 89,
   "currentStreak": 4,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 41,
     "medium": 40,
     "hard": 5,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "LeetCode_Next_Permutation": true,
@@ -98,7 +98,8 @@
     "GeeksForGeeks_Friends_Pairing_Problem": true,
     "LeetCode_Shortest_Path_in_a_Grid_with_Obstacles_Elimination": true,
     "LeetCode_Climbing_Stairs_II": true,
-    "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true
+    "LeetCode_Minimum_Cost_to_Acquire_Required_Items": true,
+    "GeeksForGeeks_Arithmetic_Operators": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -136,9 +137,10 @@
     "2026-11-08": 3,
     "2026-11-09": 9,
     "2026-11-10": 2,
-    "2026-11-11": 1
+    "2026-11-11": 2
   },
   "todayProblems": [
-    "Minimum Cost to Acquire Required Items"
+    "Minimum Cost to Acquire Required Items",
+    "Arithmetic Operators"
   ]
 }
