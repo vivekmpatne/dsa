@@ -1,12 +1,12 @@
 {
-  "totalSolved": 94,
-  "currentStreak": 1,
+  "totalSolved": 95,
+  "currentStreak": 2,
   "maxStreak": 6,
-  "lastSyncDate": "2026-11-18",
+  "lastSyncDate": "2026-11-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 42,
-    "medium": 44,
+    "medium": 45,
     "hard": 5,
     "basic": 3
   },
@@ -104,7 +104,8 @@
     "LeetCode_Subarray_Sums_Divisible_by_K": true,
     "LeetCode_Check_If_Array_Pairs_Are_Divisible_by_k": true,
     "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
-    "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true
+    "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
+    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -144,9 +145,10 @@
     "2026-11-10": 2,
     "2026-11-11": 5,
     "2026-11-12": 1,
-    "2026-11-18": 1
+    "2026-11-18": 1,
+    "2026-11-19": 1
   },
   "todayProblems": [
-    "Minimum Number of Changes to Make Binary String Beautiful"
+    "Minimum Score by Changing Two Elements"
   ]
 }
