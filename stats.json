@@ -1,13 +1,13 @@
 {
-  "totalSolved": 95,
-  "currentStreak": 2,
+  "totalSolved": 96,
+  "currentStreak": 3,
   "maxStreak": 6,
-  "lastSyncDate": "2026-11-19",
+  "lastSyncDate": "2026-11-20",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 42,
     "medium": 45,
-    "hard": 5,
+    "hard": 6,
     "basic": 3
   },
   "syncedProblems": {
@@ -105,7 +105,8 @@
     "LeetCode_Check_If_Array_Pairs_Are_Divisible_by_k": true,
     "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
     "LeetCode_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful": true,
-    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true
+    "LeetCode_Minimum_Score_by_Changing_Two_Elements": true,
+    "LeetCode_Maximize_Consecutive_Elements_in_an_Array_After_Modification": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -146,9 +147,10 @@
     "2026-11-11": 5,
     "2026-11-12": 1,
     "2026-11-18": 1,
-    "2026-11-19": 1
+    "2026-11-19": 1,
+    "2026-11-20": 1
   },
   "todayProblems": [
-    "Minimum Score by Changing Two Elements"
+    "Maximize Consecutive Elements in an Array After Modification"
   ]
 }
