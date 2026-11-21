@@ -98,3 +98,4 @@
 | 96 | [Find the Winner of the Circular Game](./LeetCode/Medium/Find%20the%20Winner%20of%20the%20Circular%20Game) | [LeetCode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | 21 Nov 2026 | 02:10 pm |
 | 97 | [Ugly Number](./LeetCode/Easy/Ugly%20Number) | [LeetCode](https://leetcode.com/problems/ugly-number/) | Easy | 21 Nov 2026 | 02:19 pm |
 | 98 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 21 Nov 2026 | 02:38 pm |
+| 99 | [Combinations](./LeetCode/Medium/Combinations) | [LeetCode](https://leetcode.com/problems/combinations/) | Medium | 21 Nov 2026 | 09:59 pm |

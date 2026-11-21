@@ -1,12 +1,12 @@
 {
-  "totalSolved": 99,
+  "totalSolved": 100,
   "currentStreak": 4,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-21",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 44,
-    "medium": 46,
+    "medium": 47,
     "hard": 6,
     "basic": 3
   },
@@ -109,7 +109,8 @@
     "LeetCode_Maximize_Consecutive_Elements_in_an_Array_After_Modification": true,
     "LeetCode_Find_the_Winner_of_the_Circular_Game": true,
     "LeetCode_Ugly_Number": true,
-    "LeetCode_Happy_Number": true
+    "LeetCode_Happy_Number": true,
+    "LeetCode_Combinations": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -152,11 +153,12 @@
     "2026-11-18": 1,
     "2026-11-19": 1,
     "2026-11-20": 1,
-    "2026-11-21": 3
+    "2026-11-21": 4
   },
   "todayProblems": [
     "Find the Winner of the Circular Game",
     "Ugly Number",
-    "Happy Number"
+    "Happy Number",
+    "Combinations"
   ]
 }
