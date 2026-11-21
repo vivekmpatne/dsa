@@ -96,3 +96,4 @@
 | 94 | [Minimum Score by Changing Two Elements](./LeetCode/Medium/Minimum%20Score%20by%20Changing%20Two%20Elements) | [LeetCode](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | 19 Nov 2026 | 11:59 pm |
 | 95 | [Maximize Consecutive Elements in an Array After Modification](./LeetCode/Hard/Maximize%20Consecutive%20Elements%20in%20an%20Array%20After%20Modification) | [LeetCode](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | Hard | 20 Nov 2026 | 11:58 pm |
 | 96 | [Find the Winner of the Circular Game](./LeetCode/Medium/Find%20the%20Winner%20of%20the%20Circular%20Game) | [LeetCode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | 21 Nov 2026 | 02:10 pm |
+| 97 | [Ugly Number](./LeetCode/Easy/Ugly%20Number) | [LeetCode](https://leetcode.com/problems/ugly-number/) | Easy | 21 Nov 2026 | 02:19 pm |
