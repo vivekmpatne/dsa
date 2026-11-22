@@ -104,3 +104,4 @@
 | 102 | [Distinct Prime Factors of Product of Array](./LeetCode/Medium/Distinct%20Prime%20Factors%20of%20Product%20of%20Array) | [LeetCode](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | Medium | 22 Nov 2026 | 10:11 pm |
 | 103 | [Least Prime Factor](./GeeksForGeeks/Easy/Least%20Prime%20Factor) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/least-prime-factor5216/1) | Easy | 22 Nov 2026 | 10:31 pm |
 | 104 | [Assign Umbrella on Rainy Days](./LeetCode/Easy/Assign%20Umbrella%20on%20Rainy%20Days) | [LeetCode](https://leetcode.com/problems/assign-umbrella-on-rainy-days/) | Easy | 22 Nov 2026 | 11:16 pm |
+| 105 | [Minimum Range After Sum Operations](./LeetCode/Medium/Minimum%20Range%20After%20Sum%20Operations) | [LeetCode](https://leetcode.com/problems/minimum-range-after-sum-operations/) | Medium | 22 Nov 2026 | 11:23 pm |
