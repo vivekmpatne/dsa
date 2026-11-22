@@ -1,12 +1,12 @@
 {
-  "totalSolved": 101,
+  "totalSolved": 102,
   "currentStreak": 5,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-22",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 44,
-    "medium": 48,
+    "medium": 49,
     "hard": 6,
     "basic": 3
   },
@@ -111,7 +111,8 @@
     "LeetCode_Ugly_Number": true,
     "LeetCode_Happy_Number": true,
     "LeetCode_Combinations": true,
-    "GeeksForGeeks_nCr": true
+    "GeeksForGeeks_nCr": true,
+    "LeetCode_Count_Primes": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -155,9 +156,10 @@
     "2026-11-19": 1,
     "2026-11-20": 1,
     "2026-11-21": 4,
-    "2026-11-22": 1
+    "2026-11-22": 2
   },
   "todayProblems": [
-    "nCr"
+    "nCr",
+    "Count Primes"
   ]
 }
