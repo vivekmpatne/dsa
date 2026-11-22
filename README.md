@@ -101,3 +101,4 @@
 | 99 | [Combinations](./LeetCode/Medium/Combinations) | [LeetCode](https://leetcode.com/problems/combinations/) | Medium | 21 Nov 2026 | 09:59 pm |
 | 100 | [nCr](./GeeksForGeeks/Medium/nCr) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ncr1019/1) | Medium | 22 Nov 2026 | 08:48 pm |
 | 101 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 22 Nov 2026 | 09:48 pm |
+| 102 | [Distinct Prime Factors of Product of Array](./LeetCode/Medium/Distinct%20Prime%20Factors%20of%20Product%20of%20Array) | [LeetCode](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | Medium | 22 Nov 2026 | 10:11 pm |
