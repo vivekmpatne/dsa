@@ -1,11 +1,11 @@
 {
-  "totalSolved": 110,
+  "totalSolved": 111,
   "currentStreak": 5,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-22",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
-    "easy": 49,
+    "easy": 50,
     "medium": 52,
     "hard": 6,
     "basic": 3
@@ -120,7 +120,8 @@
     "LeetCode_Count_Dominant_Elements": true,
     "LeetCode_Minimum_Cost_to_Make_All_Array_Elements_Equal": true,
     "LeetCode_Minimum_Moves_to_Convert_String": true,
-    "LeetCode_Pascal's_Triangle": true
+    "LeetCode_Pascal's_Triangle": true,
+    "LeetCode_Pascal's_Triangle_II": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -164,7 +165,7 @@
     "2026-11-19": 1,
     "2026-11-20": 1,
     "2026-11-21": 4,
-    "2026-11-22": 10
+    "2026-11-22": 11
   },
   "todayProblems": [
     "nCr",
@@ -176,6 +177,7 @@
     "Count Dominant Elements",
     "Minimum Cost to Make All Array Elements Equal",
     "Minimum Moves to Convert String",
-    "Pascal's Triangle"
+    "Pascal's Triangle",
+    "Pascal's Triangle II"
   ]
 }
