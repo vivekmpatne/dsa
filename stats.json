@@ -1,11 +1,11 @@
 {
-  "totalSolved": 103,
+  "totalSolved": 104,
   "currentStreak": 5,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-22",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 44,
+    "easy": 45,
     "medium": 50,
     "hard": 6,
     "basic": 3
@@ -113,7 +113,8 @@
     "LeetCode_Combinations": true,
     "GeeksForGeeks_nCr": true,
     "LeetCode_Count_Primes": true,
-    "LeetCode_Distinct_Prime_Factors_of_Product_of_Array": true
+    "LeetCode_Distinct_Prime_Factors_of_Product_of_Array": true,
+    "GeeksForGeeks_Least_Prime_Factor": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -157,11 +158,12 @@
     "2026-11-19": 1,
     "2026-11-20": 1,
     "2026-11-21": 4,
-    "2026-11-22": 3
+    "2026-11-22": 4
   },
   "todayProblems": [
     "nCr",
     "Count Primes",
-    "Distinct Prime Factors of Product of Array"
+    "Distinct Prime Factors of Product of Array",
+    "Least Prime Factor"
   ]
 }
