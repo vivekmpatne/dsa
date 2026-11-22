@@ -99,3 +99,4 @@
 | 97 | [Ugly Number](./LeetCode/Easy/Ugly%20Number) | [LeetCode](https://leetcode.com/problems/ugly-number/) | Easy | 21 Nov 2026 | 02:19 pm |
 | 98 | [Happy Number](./LeetCode/Easy/Happy%20Number) | [LeetCode](https://leetcode.com/problems/happy-number/) | Easy | 21 Nov 2026 | 02:38 pm |
 | 99 | [Combinations](./LeetCode/Medium/Combinations) | [LeetCode](https://leetcode.com/problems/combinations/) | Medium | 21 Nov 2026 | 09:59 pm |
+| 100 | [nCr](./GeeksForGeeks/Medium/nCr) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/ncr1019/1) | Medium | 22 Nov 2026 | 08:48 pm |
