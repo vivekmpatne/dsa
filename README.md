@@ -105,3 +105,4 @@
 | 103 | [Least Prime Factor](./GeeksForGeeks/Easy/Least%20Prime%20Factor) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/least-prime-factor5216/1) | Easy | 22 Nov 2026 | 10:31 pm |
 | 104 | [Assign Umbrella on Rainy Days](./LeetCode/Easy/Assign%20Umbrella%20on%20Rainy%20Days) | [LeetCode](https://leetcode.com/problems/assign-umbrella-on-rainy-days/) | Easy | 22 Nov 2026 | 11:16 pm |
 | 105 | [Minimum Range After Sum Operations](./LeetCode/Medium/Minimum%20Range%20After%20Sum%20Operations) | [LeetCode](https://leetcode.com/problems/minimum-range-after-sum-operations/) | Medium | 22 Nov 2026 | 11:23 pm |
+| 106 | [Count Dominant Elements](./LeetCode/Easy/Count%20Dominant%20Elements) | [LeetCode](https://leetcode.com/problems/count-dominant-elements/) | Easy | 22 Nov 2026 | 11:28 pm |

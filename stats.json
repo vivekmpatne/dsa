@@ -1,11 +1,11 @@
 {
-  "totalSolved": 106,
+  "totalSolved": 107,
   "currentStreak": 5,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-22",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
-    "easy": 46,
+    "easy": 47,
     "medium": 51,
     "hard": 6,
     "basic": 3
@@ -116,7 +116,8 @@
     "LeetCode_Distinct_Prime_Factors_of_Product_of_Array": true,
     "GeeksForGeeks_Least_Prime_Factor": true,
     "LeetCode_Assign_Umbrella_on_Rainy_Days": true,
-    "LeetCode_Minimum_Range_After_Sum_Operations": true
+    "LeetCode_Minimum_Range_After_Sum_Operations": true,
+    "LeetCode_Count_Dominant_Elements": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -160,7 +161,7 @@
     "2026-11-19": 1,
     "2026-11-20": 1,
     "2026-11-21": 4,
-    "2026-11-22": 6
+    "2026-11-22": 7
   },
   "todayProblems": [
     "nCr",
@@ -168,6 +169,7 @@
     "Distinct Prime Factors of Product of Array",
     "Least Prime Factor",
     "Assign Umbrella on Rainy Days",
-    "Minimum Range After Sum Operations"
+    "Minimum Range After Sum Operations",
+    "Count Dominant Elements"
   ]
 }
