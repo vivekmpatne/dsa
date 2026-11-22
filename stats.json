@@ -1,11 +1,11 @@
 {
-  "totalSolved": 108,
+  "totalSolved": 109,
   "currentStreak": 5,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-22",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 47,
+    "easy": 48,
     "medium": 52,
     "hard": 6,
     "basic": 3
@@ -118,7 +118,8 @@
     "LeetCode_Assign_Umbrella_on_Rainy_Days": true,
     "LeetCode_Minimum_Range_After_Sum_Operations": true,
     "LeetCode_Count_Dominant_Elements": true,
-    "LeetCode_Minimum_Cost_to_Make_All_Array_Elements_Equal": true
+    "LeetCode_Minimum_Cost_to_Make_All_Array_Elements_Equal": true,
+    "LeetCode_Minimum_Moves_to_Convert_String": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -162,7 +163,7 @@
     "2026-11-19": 1,
     "2026-11-20": 1,
     "2026-11-21": 4,
-    "2026-11-22": 8
+    "2026-11-22": 9
   },
   "todayProblems": [
     "nCr",
@@ -172,6 +173,7 @@
     "Assign Umbrella on Rainy Days",
     "Minimum Range After Sum Operations",
     "Count Dominant Elements",
-    "Minimum Cost to Make All Array Elements Equal"
+    "Minimum Cost to Make All Array Elements Equal",
+    "Minimum Moves to Convert String"
   ]
 }
