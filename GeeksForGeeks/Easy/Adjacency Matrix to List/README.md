@@ -1,0 +1,13 @@
+# Adjacency Matrix to List
+
+## Difficulty: Easy
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/convert-adjacency-matrix-to-adjacency-list/1)
+
+## Solved On
+24 Nov 2026 at 01:24 am
+
+<h2><a href="https://www.geeksforgeeks.org/problems/convert-adjacency-matrix-to-adjacency-list/1">Adjacency Matrix to List</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 14pt;">Given an undirected graph represented by its adjacency matrix <strong>mat[][] </strong>where,</span></p><ul><li><span style="font-size: 14pt;">mat[i][j] = 1 indicates that there is an edge between vertex i and vertex j</span></li><li><span style="font-size: 14pt;">And mat[i][j] = 0 indicates no edge.</span></li></ul><p><span style="font-size: 14pt;">Your task is to convert the given adjacency matrix into its corresponding adjacency list representation. In the resulting adjacency list, each element adj[i] should contain all vertices that are directly connected to vertex i.</span></p><p><span style="font-size: 14pt; font-family: 'andale mono', monospace;"><strong>Examples :</strong></span></p><pre><span style="font-size: 14pt; font-family: 'andale mono', monospace;"><strong>Input: </strong>mat[][] = [[0, 1, 0, 1], [1, 0, 1, 0], [0, 1, 0, 1], [1, 0, 1, 0]]<span style="color: #273239; letter-spacing: 0.162px; text-wrap-mode: wrap; box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; vertical-align: baseline;"><br></span><strong>Output: </strong>[[1, 3], [0, 2], [1, 3], [0, 2]]<strong><br></strong><strong>Explanation: <br>    <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/914136/Web/Other/blobid3_1761719107.webp" width="281" height="232"></strong><br>The adjacency matrix represents the graph above and hence the adjacency list is [[1, 3], [0, 2], [1, 3], [0, 2]].</span></pre><pre><span style="font-size: 14pt; font-family: 'andale mono', monospace;"><strong>Input: </strong>mat[][] = [[0, 1, 1, 0, 0], [1, 0, 1, 0, 0], [1, 1, 0, 1, 1], [0, 0, 1, 0, 0], [0, 0, 1, 0, 0]]<br><strong>Output: </strong>[[1, 2], [0, 2], [0, 1, 3, 4], [2], [2]]<br><strong>Explanation: <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/914136/Web/Other/blobid2_1761717019.webp" width="301" height="179"><br></strong>The adjacency matrix represents the graph above and hence the adjacency list is [[1, 2], [0, 2], [0, 1, 3, 4], [2], [2]].<strong><br></strong></span></pre>

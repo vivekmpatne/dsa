@@ -118,3 +118,4 @@
 | 116 | [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | Medium | 23 Nov 2026 | 02:43 pm |
 | 117 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 23 Nov 2026 | 03:16 pm |
 | 118 | [Maximum Sum Circular Subarray](./LeetCode/Medium/Maximum%20Sum%20Circular%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | 23 Nov 2026 | 03:36 pm |
+| 119 | [Adjacency Matrix to List](./GeeksForGeeks/Easy/Adjacency%20Matrix%20to%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-adjacency-matrix-to-adjacency-list/1) | Easy | 24 Nov 2026 | 01:24 am |

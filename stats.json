@@ -1,11 +1,11 @@
 {
-  "totalSolved": 119,
-  "currentStreak": 6,
-  "maxStreak": 6,
-  "lastSyncDate": "2026-11-23",
-  "todayCount": 8,
+  "totalSolved": 120,
+  "currentStreak": 7,
+  "maxStreak": 7,
+  "lastSyncDate": "2026-11-24",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 52,
+    "easy": 53,
     "medium": 57,
     "hard": 7,
     "basic": 3
@@ -129,7 +129,8 @@
     "LeetCode_Find_Pivot_Index": true,
     "LeetCode_Product_of_Array_Except_Self": true,
     "LeetCode_Maximum_Product_Subarray": true,
-    "LeetCode_Maximum_Sum_Circular_Subarray": true
+    "LeetCode_Maximum_Sum_Circular_Subarray": true,
+    "GeeksForGeeks_Adjacency_Matrix_to_List": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -174,16 +175,10 @@
     "2026-11-20": 1,
     "2026-11-21": 4,
     "2026-11-22": 11,
-    "2026-11-23": 8
+    "2026-11-23": 8,
+    "2026-11-24": 1
   },
   "todayProblems": [
-    "Best Time to Buy and Sell Stock",
-    "Best Time to Buy and Sell Stock III",
-    "Best Time to Buy and Sell Stock II",
-    "House Robber II",
-    "Find Pivot Index",
-    "Product of Array Except Self",
-    "Maximum Product Subarray",
-    "Maximum Sum Circular Subarray"
+    "Adjacency Matrix to List"
   ]
 }
