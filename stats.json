@@ -1,12 +1,12 @@
 {
-  "totalSolved": 114,
+  "totalSolved": 115,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-23",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 51,
-    "medium": 53,
+    "medium": 54,
     "hard": 7,
     "basic": 3
   },
@@ -124,7 +124,8 @@
     "LeetCode_Pascal's_Triangle_II": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock_III": true,
-    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock_II": true,
+    "LeetCode_House_Robber_II": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -169,11 +170,12 @@
     "2026-11-20": 1,
     "2026-11-21": 4,
     "2026-11-22": 11,
-    "2026-11-23": 3
+    "2026-11-23": 4
   },
   "todayProblems": [
     "Best Time to Buy and Sell Stock",
     "Best Time to Buy and Sell Stock III",
-    "Best Time to Buy and Sell Stock II"
+    "Best Time to Buy and Sell Stock II",
+    "House Robber II"
   ]
 }
