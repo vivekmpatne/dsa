@@ -119,3 +119,4 @@
 | 117 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 23 Nov 2026 | 03:16 pm |
 | 118 | [Maximum Sum Circular Subarray](./LeetCode/Medium/Maximum%20Sum%20Circular%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | 23 Nov 2026 | 03:36 pm |
 | 119 | [Adjacency Matrix to List](./GeeksForGeeks/Easy/Adjacency%20Matrix%20to%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-adjacency-matrix-to-adjacency-list/1) | Easy | 24 Nov 2026 | 01:24 am |
+| 120 | [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 24 Nov 2026 | 09:50 am |
