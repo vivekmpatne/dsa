@@ -1,12 +1,12 @@
 {
-  "totalSolved": 121,
+  "totalSolved": 122,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 54,
-    "medium": 57,
+    "medium": 58,
     "hard": 7,
     "basic": 3
   },
@@ -131,7 +131,8 @@
     "LeetCode_Maximum_Product_Subarray": true,
     "LeetCode_Maximum_Sum_Circular_Subarray": true,
     "GeeksForGeeks_Adjacency_Matrix_to_List": true,
-    "LeetCode_Maximum_Average_Subarray_I": true
+    "LeetCode_Maximum_Average_Subarray_I": true,
+    "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -177,10 +178,11 @@
     "2026-11-21": 4,
     "2026-11-22": 11,
     "2026-11-23": 8,
-    "2026-11-24": 2
+    "2026-11-24": 3
   },
   "todayProblems": [
     "Adjacency Matrix to List",
-    "Maximum Average Subarray I"
+    "Maximum Average Subarray I",
+    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold"
   ]
 }
