@@ -1,12 +1,12 @@
 {
-  "totalSolved": 123,
+  "totalSolved": 124,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-24",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 55,
-    "medium": 58,
+    "medium": 59,
     "hard": 7,
     "basic": 3
   },
@@ -133,7 +133,8 @@
     "GeeksForGeeks_Adjacency_Matrix_to_List": true,
     "LeetCode_Maximum_Average_Subarray_I": true,
     "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -179,12 +180,13 @@
     "2026-11-21": 4,
     "2026-11-22": 11,
     "2026-11-23": 8,
-    "2026-11-24": 4
+    "2026-11-24": 5
   },
   "todayProblems": [
     "Adjacency Matrix to List",
     "Maximum Average Subarray I",
     "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-    "Move Zeroes"
+    "Move Zeroes",
+    "Container With Most Water"
   ]
 }
