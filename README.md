@@ -121,3 +121,4 @@
 | 119 | [Adjacency Matrix to List](./GeeksForGeeks/Easy/Adjacency%20Matrix%20to%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/convert-adjacency-matrix-to-adjacency-list/1) | Easy | 24 Nov 2026 | 01:24 am |
 | 120 | [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 24 Nov 2026 | 09:50 am |
 | 121 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](./LeetCode/Medium/Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold) | [LeetCode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium | 24 Nov 2026 | 10:07 am |
+| 122 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 24 Nov 2026 | 10:22 am |
