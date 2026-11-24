@@ -1,13 +1,13 @@
 {
-  "totalSolved": 124,
+  "totalSolved": 125,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-11-24",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 55,
     "medium": 59,
-    "hard": 7,
+    "hard": 8,
     "basic": 3
   },
   "syncedProblems": {
@@ -134,7 +134,8 @@
     "LeetCode_Maximum_Average_Subarray_I": true,
     "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
     "LeetCode_Move_Zeroes": true,
-    "LeetCode_Container_With_Most_Water": true
+    "LeetCode_Container_With_Most_Water": true,
+    "LeetCode_Trapping_Rain_Water": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -180,13 +181,14 @@
     "2026-11-21": 4,
     "2026-11-22": 11,
     "2026-11-23": 8,
-    "2026-11-24": 5
+    "2026-11-24": 6
   },
   "todayProblems": [
     "Adjacency Matrix to List",
     "Maximum Average Subarray I",
     "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
     "Move Zeroes",
-    "Container With Most Water"
+    "Container With Most Water",
+    "Trapping Rain Water"
   ]
 }
