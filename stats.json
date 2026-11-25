@@ -1,12 +1,12 @@
 {
-  "totalSolved": 128,
+  "totalSolved": 129,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 58,
-    "medium": 59,
+    "medium": 60,
     "hard": 8,
     "basic": 3
   },
@@ -138,7 +138,8 @@
     "LeetCode_Trapping_Rain_Water": true,
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Contains_Duplicate": true,
-    "LeetCode_Check_If_N_and_Its_Double_Exist": true
+    "LeetCode_Check_If_N_and_Its_Double_Exist": true,
+    "LeetCode_Koko_Eating_Bananas": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -185,10 +186,11 @@
     "2026-11-22": 11,
     "2026-11-23": 8,
     "2026-11-24": 7,
-    "2026-11-25": 2
+    "2026-11-25": 3
   },
   "todayProblems": [
     "Contains Duplicate",
-    "Check If N and Its Double Exist"
+    "Check If N and Its Double Exist",
+    "Koko Eating Bananas"
   ]
 }
