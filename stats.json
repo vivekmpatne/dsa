@@ -1,11 +1,11 @@
 {
-  "totalSolved": 127,
+  "totalSolved": 128,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 57,
+    "easy": 58,
     "medium": 59,
     "hard": 8,
     "basic": 3
@@ -137,7 +137,8 @@
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Trapping_Rain_Water": true,
     "LeetCode_Valid_Palindrome": true,
-    "LeetCode_Contains_Duplicate": true
+    "LeetCode_Contains_Duplicate": true,
+    "LeetCode_Check_If_N_and_Its_Double_Exist": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -184,9 +185,10 @@
     "2026-11-22": 11,
     "2026-11-23": 8,
     "2026-11-24": 7,
-    "2026-11-25": 1
+    "2026-11-25": 2
   },
   "todayProblems": [
-    "Contains Duplicate"
+    "Contains Duplicate",
+    "Check If N and Its Double Exist"
   ]
 }

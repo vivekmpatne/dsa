@@ -126,3 +126,4 @@
 | 124 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 24 Nov 2026 | 12:02 pm |
 | 125 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 24 Nov 2026 | 12:45 pm |
 | 126 | [Contains Duplicate](./LeetCode/Easy/Contains%20Duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Easy | 25 Nov 2026 | 12:09 pm |
+| 127 | [Check If N and Its Double Exist](./LeetCode/Easy/Check%20If%20N%20and%20Its%20Double%20Exist) | [LeetCode](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | 25 Nov 2026 | 12:18 pm |
