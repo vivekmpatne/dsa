@@ -125,3 +125,4 @@
 | 123 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 24 Nov 2026 | 10:58 am |
 | 124 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 24 Nov 2026 | 12:02 pm |
 | 125 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 24 Nov 2026 | 12:45 pm |
+| 126 | [Contains Duplicate](./LeetCode/Easy/Contains%20Duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Easy | 25 Nov 2026 | 12:09 pm |
