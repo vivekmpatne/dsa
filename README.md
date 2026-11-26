@@ -130,3 +130,4 @@
 | 128 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 25 Nov 2026 | 04:00 pm |
 | 129 | [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) | [LeetCode](https://leetcode.com/problems/stone-removal-game/) | Easy | 26 Nov 2026 | 11:36 pm |
 | 130 | [Shortest Distance from Source](./Manual/Easy/Shortest%20Distance%20from%20Source) | [Manual](https://www.hackerearth.com/problem/algorithm/shortest-distance-from-source/?purpose=login&source=problem-page&update=google) | Easy | 27 Nov 2026 | 01:11 am |
+| 131 | [Find if Path Exists in Graph](./LeetCode/Easy/Find%20if%20Path%20Exists%20in%20Graph) | [LeetCode](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | 27 Nov 2026 | 01:31 am |
