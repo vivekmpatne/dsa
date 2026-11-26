@@ -1,12 +1,12 @@
 {
-  "totalSolved": 132,
+  "totalSolved": 133,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 61,
-    "medium": 60,
+    "medium": 61,
     "hard": 8,
     "basic": 3
   },
@@ -142,7 +142,8 @@
     "LeetCode_Koko_Eating_Bananas": true,
     "LeetCode_Stone_Removal_Game": true,
     "Manual_Shortest_Distance_from_Source": true,
-    "LeetCode_Find_if_Path_Exists_in_Graph": true
+    "LeetCode_Find_if_Path_Exists_in_Graph": true,
+    "LeetCode_Number_of_Ways_to_Arrive_at_Destination": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -191,10 +192,11 @@
     "2026-11-24": 7,
     "2026-11-25": 3,
     "2026-11-26": 1,
-    "2026-11-27": 2
+    "2026-11-27": 3
   },
   "todayProblems": [
     "Shortest Distance from Source",
-    "Find if Path Exists in Graph"
+    "Find if Path Exists in Graph",
+    "Number of Ways to Arrive at Destination"
   ]
 }
