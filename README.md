@@ -128,3 +128,4 @@
 | 126 | [Contains Duplicate](./LeetCode/Easy/Contains%20Duplicate) | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | Easy | 25 Nov 2026 | 12:09 pm |
 | 127 | [Check If N and Its Double Exist](./LeetCode/Easy/Check%20If%20N%20and%20Its%20Double%20Exist) | [LeetCode](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | 25 Nov 2026 | 12:18 pm |
 | 128 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 25 Nov 2026 | 04:00 pm |
+| 129 | [Stone Removal Game](./LeetCode/Easy/Stone%20Removal%20Game) | [LeetCode](https://leetcode.com/problems/stone-removal-game/) | Easy | 26 Nov 2026 | 11:36 pm |
