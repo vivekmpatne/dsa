@@ -1,12 +1,12 @@
 {
-  "totalSolved": 136,
+  "totalSolved": 137,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 62,
-    "medium": 63,
+    "medium": 64,
     "hard": 8,
     "basic": 3
   },
@@ -146,7 +146,8 @@
     "LeetCode_Number_of_Ways_to_Arrive_at_Destination": true,
     "LeetCode_Flood_Fill": true,
     "LeetCode_Number_of_Islands": true,
-    "LeetCode_Keys_and_Rooms": true
+    "LeetCode_Keys_and_Rooms": true,
+    "LeetCode_All_Paths_From_Source_to_Target": true
   },
   "activityHistory": {
     "2026-08-26": 1,
@@ -195,7 +196,7 @@
     "2026-11-24": 7,
     "2026-11-25": 3,
     "2026-11-26": 1,
-    "2026-11-27": 6
+    "2026-11-27": 7
   },
   "todayProblems": [
     "Shortest Distance from Source",
@@ -203,6 +204,7 @@
     "Number of Ways to Arrive at Destination",
     "Flood Fill",
     "Number of Islands",
-    "Keys and Rooms"
+    "Keys and Rooms",
+    "All Paths From Source to Target"
   ]
 }

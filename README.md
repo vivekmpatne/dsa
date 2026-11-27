@@ -135,3 +135,4 @@
 | 133 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 27 Nov 2026 | 11:17 pm |
 | 134 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 27 Nov 2026 | 11:32 pm |
 | 135 | [Keys and Rooms](./LeetCode/Medium/Keys%20and%20Rooms) | [LeetCode](https://leetcode.com/problems/keys-and-rooms/) | Medium | 27 Nov 2026 | 11:43 pm |
+| 136 | [All Paths From Source to Target](./LeetCode/Medium/All%20Paths%20From%20Source%20to%20Target) | [LeetCode](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | 27 Nov 2026 | 11:53 pm |
