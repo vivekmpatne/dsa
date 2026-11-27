@@ -133,3 +133,4 @@
 | 131 | [Find if Path Exists in Graph](./LeetCode/Easy/Find%20if%20Path%20Exists%20in%20Graph) | [LeetCode](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | 27 Nov 2026 | 01:31 am |
 | 132 | [Number of Ways to Arrive at Destination](./LeetCode/Medium/Number%20of%20Ways%20to%20Arrive%20at%20Destination) | [LeetCode](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | 27 Nov 2026 | 01:59 am |
 | 133 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 27 Nov 2026 | 11:17 pm |
+| 134 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 27 Nov 2026 | 11:32 pm |
